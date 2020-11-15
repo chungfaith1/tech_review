@@ -22,7 +22,7 @@ class KerasModel:
 
 class KerasData:
     def __init__(self):
-        # Extracted data from txt's
+        # Extracted data from txt files
         self.motiv_quotes = []
         self.demotiv_quotes = []
         # Hashing_trick vars
