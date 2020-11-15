@@ -1,4 +1,0 @@
-{ "prescript_commands": [ "pip install --upgrade requests"
-],
-    "entrypoint": "tech_review_grader"
-}
